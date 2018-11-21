@@ -30,14 +30,16 @@
 * 打开 [https://shadowsocks.nu/](https://shadowsocks.nu/)并点击 [Order Now](https://portal.shadowsocks.nu/link.php?id=5)，即可查看我们的产品列表。  
 ![产品列表](files/images/int-product-list.png)
 
-* 选择想要购买的服务后点击对应的 **立即购买** ，进入订单概观, 我们以旗舰版爲例，选择付款周期后点击继续加入购物车   
+* 选择想要购买的服务后点击对应的 **立即订购** ，进入订单概观, 我们以旗舰版为例，选择付款周期后点击继续加入购物车   
 ![订单概览](files/images/int-invoice-preview.png)  
 
-* 进入结账界面，点击 "Checkout"。   
+* 进入结账界面: 
+1. 可以 **确认您的订单信息** ，如果您持有优惠码，也可以在这个页面输入
+2. 然后在下面新建账户部分 **填写必要的账户信息** 后创建新账户并与您的服务关联
+3. 选择您方便的付款方式
+4. **阅读并勾选同意我们的服务条款** 后点击右侧结账按钮前往付款页面
+5. 支付账单后您的服务将会自动开通
 ![Checkout](files/images/int-checkout.png)
-
-* 填写完信息后 > 单击 “完成订购”，支付账单。    
-![完成订购](files/images/int-compelte-order.png)  
 
 **您可以选择希望使用的付款方式，我们当前提供的支付方式有**
 
@@ -65,7 +67,7 @@
 - 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 - 查看你的节点信息。
 
-![单击 "服务" > "我的服务"](files/images/int-portal-myservices.png)  
+![单击 "产品服务" > "我的服务"](files/images/int-portal-myservices.png)  
 
 ![选择 "你可用的产品/服务"](files/images/int-portal-servicespage.png)  
 
