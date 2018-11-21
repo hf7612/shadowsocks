@@ -19,7 +19,7 @@
 |高级綫路|×|〇|〇|×||
 |中转綫路|×|×|〇|×||
 |在綫设备数量|1|5|5|1|无限制|
-|流量配额（月）|50GB|50GB|20GB|50GB|无限制|
+|流量配额（月）|50GB|50GB|50GB|50GB|无限制|
 |备注|适合只偶尔<br />使用的用户|适合使用较频繁且有多<br />个设备同时使用的用户|适合对速度需<br />求较高的用户|**需网络支持IPv6**|**中港专綫(10Mbps)<br />可以定制带宽**|
 |订购链接|[立即购买](https://portal.shadowsocks.nu/cart.php?a=add&pid=33)|[立即购买](https://portal.shadowsocks.nu/cart.php?a=add&pid=34)|[立即购买](https://portal.shadowsocks.nu/cart.php?a=add&pid=36)|[立即购买](https://portal.shadowsocks.nu/cart.php?a=add&pid=17)|[立即购买](https://portal.shadowsocks.nu/cart.php?a=add&pid=9)|
 
